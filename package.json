@@ -159,7 +159,7 @@
     "it-all": "^1.0.6",
     "it-map": "^1.0.6",
     "it-pair": "^2.0.2",
-    "p-timeout": "^5.0.2",
+    "p-timeout": "^6.0.0",
     "timeout-abort-controller": "^3.0.0",
     "util": "^0.12.4",
     "varint": "^6.0.0"
